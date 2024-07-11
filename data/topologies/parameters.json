@@ -1,0 +1,38 @@
+{
+    "systems": [
+        {
+            "name": "share_all",
+            "cores": 4,
+            "l1i_share": 1,
+            "l1d_share": 1,
+            "l2_share": 4,
+            "l3_share": 4
+        },
+        {
+            "name": "share_L3",
+            "cores": 4,
+            "l1i_share": 1,
+            "l1d_share": 1,
+            "l2_share": 1,
+            "l3_share": 4
+        },
+        {
+            "name": "share_nothing",
+            "cores": 4,
+            "l1i_share": 1,
+            "l1d_share": 1,
+            "l2_share": 1,
+            "l3_share": 1
+        }
+    ],
+    "iterations": 1000,
+    "threads": 4,
+    "grain_size": 1,
+    "executables": [
+        "locks_sniper_mutex",
+        "locks_sniper_tas_cas",
+        "locks_sniper_tas_ts",
+        "locks_sniper_ttas_cas",
+        "locks_sniper_ttas_ts"
+    ]
+}

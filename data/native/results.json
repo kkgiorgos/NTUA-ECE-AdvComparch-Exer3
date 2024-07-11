@@ -1,0 +1,362 @@
+[
+    {
+        "cores": "1",
+        "executable": "mutex",
+        "grain_size": "100",
+        "time": 127.907831
+    },
+    {
+        "cores": "1",
+        "executable": "tas_cas",
+        "grain_size": "100",
+        "time": 127.97425
+    },
+    {
+        "cores": "1",
+        "executable": "tas_ts",
+        "grain_size": "100",
+        "time": 127.421621
+    },
+    {
+        "cores": "1",
+        "executable": "ttas_cas",
+        "grain_size": "100",
+        "time": 126.389992
+    },
+    {
+        "cores": "1",
+        "executable": "ttas_ts",
+        "grain_size": "100",
+        "time": 126.29256
+    },
+    {
+        "cores": "1",
+        "executable": "mutex",
+        "grain_size": "10",
+        "time": 9.355753
+    },
+    {
+        "cores": "1",
+        "executable": "tas_cas",
+        "grain_size": "10",
+        "time": 9.169036
+    },
+    {
+        "cores": "1",
+        "executable": "tas_ts",
+        "grain_size": "10",
+        "time": 9.317088
+    },
+    {
+        "cores": "1",
+        "executable": "ttas_cas",
+        "grain_size": "10",
+        "time": 9.008227
+    },
+    {
+        "cores": "1",
+        "executable": "ttas_ts",
+        "grain_size": "10",
+        "time": 9.132548
+    },
+    {
+        "cores": "1",
+        "executable": "mutex",
+        "grain_size": "1",
+        "time": 3.040268
+    },
+    {
+        "cores": "1",
+        "executable": "tas_cas",
+        "grain_size": "1",
+        "time": 1.929874
+    },
+    {
+        "cores": "1",
+        "executable": "tas_ts",
+        "grain_size": "1",
+        "time": 1.920327
+    },
+    {
+        "cores": "1",
+        "executable": "ttas_cas",
+        "grain_size": "1",
+        "time": 1.935363
+    },
+    {
+        "cores": "1",
+        "executable": "ttas_ts",
+        "grain_size": "1",
+        "time": 1.980053
+    },
+    {
+        "cores": "2",
+        "executable": "mutex",
+        "grain_size": "100",
+        "time": 362.946873
+    },
+    {
+        "cores": "2",
+        "executable": "tas_cas",
+        "grain_size": "100",
+        "time": 324.432328
+    },
+    {
+        "cores": "2",
+        "executable": "tas_ts",
+        "grain_size": "100",
+        "time": 312.710599
+    },
+    {
+        "cores": "2",
+        "executable": "ttas_cas",
+        "grain_size": "100",
+        "time": 270.15859
+    },
+    {
+        "cores": "2",
+        "executable": "ttas_ts",
+        "grain_size": "100",
+        "time": 260.285108
+    },
+    {
+        "cores": "2",
+        "executable": "mutex",
+        "grain_size": "10",
+        "time": 127.949047
+    },
+    {
+        "cores": "2",
+        "executable": "tas_cas",
+        "grain_size": "10",
+        "time": 56.402575
+    },
+    {
+        "cores": "2",
+        "executable": "tas_ts",
+        "grain_size": "10",
+        "time": 57.413153
+    },
+    {
+        "cores": "2",
+        "executable": "ttas_cas",
+        "grain_size": "10",
+        "time": 37.568808
+    },
+    {
+        "cores": "2",
+        "executable": "ttas_ts",
+        "grain_size": "10",
+        "time": 29.389527
+    },
+    {
+        "cores": "2",
+        "executable": "mutex",
+        "grain_size": "1",
+        "time": 18.843734
+    },
+    {
+        "cores": "2",
+        "executable": "tas_cas",
+        "grain_size": "1",
+        "time": 22.398259
+    },
+    {
+        "cores": "2",
+        "executable": "tas_ts",
+        "grain_size": "1",
+        "time": 24.390214
+    },
+    {
+        "cores": "2",
+        "executable": "ttas_cas",
+        "grain_size": "1",
+        "time": 20.709571
+    },
+    {
+        "cores": "2",
+        "executable": "ttas_ts",
+        "grain_size": "1",
+        "time": 16.083151
+    },
+    {
+        "cores": "4",
+        "executable": "mutex",
+        "grain_size": "100",
+        "time": 1073.45439
+    },
+    {
+        "cores": "4",
+        "executable": "tas_cas",
+        "grain_size": "100",
+        "time": 833.364131
+    },
+    {
+        "cores": "4",
+        "executable": "tas_ts",
+        "grain_size": "100",
+        "time": 858.305783
+    },
+    {
+        "cores": "4",
+        "executable": "ttas_cas",
+        "grain_size": "100",
+        "time": 548.671061
+    },
+    {
+        "cores": "4",
+        "executable": "ttas_ts",
+        "grain_size": "100",
+        "time": 530.845957
+    },
+    {
+        "cores": "4",
+        "executable": "mutex",
+        "grain_size": "10",
+        "time": 127.679294
+    },
+    {
+        "cores": "4",
+        "executable": "tas_cas",
+        "grain_size": "10",
+        "time": 199.297922
+    },
+    {
+        "cores": "4",
+        "executable": "tas_ts",
+        "grain_size": "10",
+        "time": 209.073565
+    },
+    {
+        "cores": "4",
+        "executable": "ttas_cas",
+        "grain_size": "10",
+        "time": 79.466506
+    },
+    {
+        "cores": "4",
+        "executable": "ttas_ts",
+        "grain_size": "10",
+        "time": 117.751722
+    },
+    {
+        "cores": "4",
+        "executable": "mutex",
+        "grain_size": "1",
+        "time": 39.873792
+    },
+    {
+        "cores": "4",
+        "executable": "tas_cas",
+        "grain_size": "1",
+        "time": 115.374669
+    },
+    {
+        "cores": "4",
+        "executable": "tas_ts",
+        "grain_size": "1",
+        "time": 121.583562
+    },
+    {
+        "cores": "4",
+        "executable": "ttas_cas",
+        "grain_size": "1",
+        "time": 92.91054
+    },
+    {
+        "cores": "4",
+        "executable": "ttas_ts",
+        "grain_size": "1",
+        "time": 42.736106
+    },
+    {
+        "cores": "6",
+        "executable": "mutex",
+        "grain_size": "100",
+        "time": 1555.054601
+    },
+    {
+        "cores": "6",
+        "executable": "tas_cas",
+        "grain_size": "100",
+        "time": 2653.925819
+    },
+    {
+        "cores": "6",
+        "executable": "tas_ts",
+        "grain_size": "100",
+        "time": 2475.434484
+    },
+    {
+        "cores": "6",
+        "executable": "ttas_cas",
+        "grain_size": "100",
+        "time": 923.661217
+    },
+    {
+        "cores": "6",
+        "executable": "ttas_ts",
+        "grain_size": "100",
+        "time": 812.958275
+    },
+    {
+        "cores": "6",
+        "executable": "mutex",
+        "grain_size": "10",
+        "time": 211.111073
+    },
+    {
+        "cores": "6",
+        "executable": "tas_cas",
+        "grain_size": "10",
+        "time": 487.819911
+    },
+    {
+        "cores": "6",
+        "executable": "tas_ts",
+        "grain_size": "10",
+        "time": 467.792935
+    },
+    {
+        "cores": "6",
+        "executable": "ttas_cas",
+        "grain_size": "10",
+        "time": 216.992557
+    },
+    {
+        "cores": "6",
+        "executable": "ttas_ts",
+        "grain_size": "10",
+        "time": 219.955743
+    },
+    {
+        "cores": "6",
+        "executable": "mutex",
+        "grain_size": "1",
+        "time": 64.491418
+    },
+    {
+        "cores": "6",
+        "executable": "tas_cas",
+        "grain_size": "1",
+        "time": 314.6752
+    },
+    {
+        "cores": "6",
+        "executable": "tas_ts",
+        "grain_size": "1",
+        "time": 257.830285
+    },
+    {
+        "cores": "6",
+        "executable": "ttas_cas",
+        "grain_size": "1",
+        "time": 61.813849
+    },
+    {
+        "cores": "6",
+        "executable": "ttas_ts",
+        "grain_size": "1",
+        "time": 60.172086
+    }
+]

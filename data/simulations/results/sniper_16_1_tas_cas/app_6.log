@@ -1,0 +1,2 @@
+0          [23223]  [ 6]  [trace_manager.cc    : 323]  *WARNING* accessMemory() called but thread already killed since application ended
+820        [23223]  [ 6]  [trace_manager.cc    : 323]  *WARNING* Future warnings of this type will be suppressed.

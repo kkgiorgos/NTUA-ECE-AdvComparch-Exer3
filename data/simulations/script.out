@@ -1,0 +1,140 @@
+Working on:  /root/data/simulations/results/sniper_1_1_mutex
+Working on:  /root/data/simulations/results/sniper_1_1_tas_cas
+Working on:  /root/data/simulations/results/sniper_1_1_tas_ts
+Working on:  /root/data/simulations/results/sniper_1_1_ttas_cas
+Working on:  /root/data/simulations/results/sniper_1_1_ttas_ts
+Working on:  /root/data/simulations/results/sniper_2_1_mutex
+Working on:  /root/data/simulations/results/sniper_2_1_tas_cas
+Working on:  /root/data/simulations/results/sniper_2_1_tas_ts
+Working on:  /root/data/simulations/results/sniper_2_1_ttas_cas
+Working on:  /root/data/simulations/results/sniper_2_1_ttas_ts
+Working on:  /root/data/simulations/results/sniper_4_1_mutex
+Working on:  /root/data/simulations/results/sniper_4_1_tas_cas
+0          [18606]  [ 1]  [trace_manager.cc    : 323]  *WARNING* accessMemory() called but thread already killed since application ended
+466        [18606]  [ 1]  [trace_manager.cc    : 323]  *WARNING* Future warnings of this type will be suppressed.
+Working on:  /root/data/simulations/results/sniper_4_1_tas_ts
+Working on:  /root/data/simulations/results/sniper_4_1_ttas_cas
+0          [18716]  [ 1]  [trace_manager.cc    : 323]  *WARNING* accessMemory() called but thread already killed since application ended
+462        [18716]  [ 1]  [trace_manager.cc    : 323]  *WARNING* Future warnings of this type will be suppressed.
+Working on:  /root/data/simulations/results/sniper_4_1_ttas_ts
+Working on:  /root/data/simulations/results/sniper_8_1_mutex
+Working on:  /root/data/simulations/results/sniper_8_1_tas_cas
+0          [18902]  [ 4]  [trace_manager.cc    : 323]  *WARNING* accessMemory() called but thread already killed since application ended
+320        [18902]  [ 4]  [trace_manager.cc    : 323]  *WARNING* Future warnings of this type will be suppressed.
+Working on:  /root/data/simulations/results/sniper_8_1_tas_ts
+0          [18969]  [ 4]  [trace_manager.cc    : 323]  *WARNING* accessMemory() called but thread already killed since application ended
+1112       [18969]  [ 4]  [trace_manager.cc    : 323]  *WARNING* Future warnings of this type will be suppressed.
+Working on:  /root/data/simulations/results/sniper_8_1_ttas_cas
+0          [19033]  [ 3]  [trace_manager.cc    : 323]  *WARNING* accessMemory() called but thread already killed since application ended
+448        [19033]  [ 3]  [trace_manager.cc    : 323]  *WARNING* Future warnings of this type will be suppressed.
+Working on:  /root/data/simulations/results/sniper_8_1_ttas_ts
+0          [19107]  [ 7]  [trace_manager.cc    : 323]  *WARNING* accessMemory() called but thread already killed since application ended
+314        [19107]  [ 7]  [trace_manager.cc    : 323]  *WARNING* Future warnings of this type will be suppressed.
+Working on:  /root/data/simulations/results/sniper_16_1_mutex
+0          [19196]  [14]  [trace_manager.cc    : 323]  *WARNING* accessMemory() called but thread already killed since application ended
+309        [19196]  [14]  [trace_manager.cc    : 323]  *WARNING* Future warnings of this type will be suppressed.
+Working on:  /root/data/simulations/results/sniper_16_1_tas_cas
+[SIFT] /root/sniper/common/core/memory_subsystem/parametric_dram_directory_msi/cache_cntlr.cc:1358: void ParametricDramDirectoryMSI::CacheCntlr::invalidateCacheBlock(IntPtr): Assertion `old_cstate != CacheState::MODIFIED' failed.
+Working on:  /root/data/simulations/results/sniper_16_1_tas_ts
+0          [19358]  [ 5]  [trace_manager.cc    : 323]  *WARNING* accessMemory() called but thread already killed since application ended
+321        [19358]  [ 5]  [trace_manager.cc    : 323]  *WARNING* Future warnings of this type will be suppressed.
+Working on:  /root/data/simulations/results/sniper_16_1_ttas_cas
+[SIFT] /root/sniper/common/core/memory_subsystem/parametric_dram_directory_msi/cache_cntlr.cc:1358: void ParametricDramDirectoryMSI::CacheCntlr::invalidateCacheBlock(IntPtr): Assertion `old_cstate != CacheState::MODIFIED' failed.
+Working on:  /root/data/simulations/results/sniper_16_1_ttas_ts
+0          [19559]  [15]  [trace_manager.cc    : 323]  *WARNING* accessMemory() called but thread already killed since application ended
+383        [19559]  [15]  [trace_manager.cc    : 323]  *WARNING* Future warnings of this type will be suppressed.
+Working on:  /root/data/simulations/results/sniper_1_10_mutex
+Working on:  /root/data/simulations/results/sniper_1_10_tas_cas
+Working on:  /root/data/simulations/results/sniper_1_10_tas_ts
+Working on:  /root/data/simulations/results/sniper_1_10_ttas_cas
+Working on:  /root/data/simulations/results/sniper_1_10_ttas_ts
+Working on:  /root/data/simulations/results/sniper_2_10_mutex
+Working on:  /root/data/simulations/results/sniper_2_10_tas_cas
+Working on:  /root/data/simulations/results/sniper_2_10_tas_ts
+Working on:  /root/data/simulations/results/sniper_2_10_ttas_cas
+Working on:  /root/data/simulations/results/sniper_2_10_ttas_ts
+Working on:  /root/data/simulations/results/sniper_4_10_mutex
+Working on:  /root/data/simulations/results/sniper_4_10_tas_cas
+Working on:  /root/data/simulations/results/sniper_4_10_tas_ts
+0          [20194]  [ 1]  [trace_manager.cc    : 323]  *WARNING* accessMemory() called but thread already killed since application ended
+298        [20194]  [ 1]  [trace_manager.cc    : 323]  *WARNING* Future warnings of this type will be suppressed.
+Working on:  /root/data/simulations/results/sniper_4_10_ttas_cas
+Working on:  /root/data/simulations/results/sniper_4_10_ttas_ts
+0          [20305]  [ 2]  [trace_manager.cc    : 323]  *WARNING* accessMemory() called but thread already killed since application ended
+338        [20305]  [ 2]  [trace_manager.cc    : 323]  *WARNING* Future warnings of this type will be suppressed.
+Working on:  /root/data/simulations/results/sniper_8_10_mutex
+0          [20368]  [ 4]  [trace_manager.cc    : 323]  *WARNING* accessMemory() called but thread already killed since application ended
+501        [20368]  [ 4]  [trace_manager.cc    : 323]  *WARNING* Future warnings of this type will be suppressed.
+Working on:  /root/data/simulations/results/sniper_8_10_tas_cas
+0          [20428]  [ 1]  [trace_manager.cc    : 323]  *WARNING* accessMemory() called but thread already killed since application ended
+419        [20428]  [ 1]  [trace_manager.cc    : 323]  *WARNING* Future warnings of this type will be suppressed.
+Working on:  /root/data/simulations/results/sniper_8_10_tas_ts
+0          [20504]  [ 6]  [trace_manager.cc    : 323]  *WARNING* accessMemory() called but thread already killed since application ended
+375        [20504]  [ 6]  [trace_manager.cc    : 323]  *WARNING* Future warnings of this type will be suppressed.
+Working on:  /root/data/simulations/results/sniper_8_10_ttas_cas
+0          [20565]  [ 3]  [trace_manager.cc    : 323]  *WARNING* accessMemory() called but thread already killed since application ended
+570        [20565]  [ 3]  [trace_manager.cc    : 323]  *WARNING* Future warnings of this type will be suppressed.
+Working on:  /root/data/simulations/results/sniper_8_10_ttas_ts
+0          [20639]  [ 7]  [trace_manager.cc    : 323]  *WARNING* accessMemory() called but thread already killed since application ended
+355        [20639]  [ 7]  [trace_manager.cc    : 323]  *WARNING* Future warnings of this type will be suppressed.
+Working on:  /root/data/simulations/results/sniper_16_10_mutex
+0          [20701]  [ 1]  [trace_manager.cc    : 323]  *WARNING* accessMemory() called but thread already killed since application ended
+966        [20701]  [ 1]  [trace_manager.cc    : 323]  *WARNING* Future warnings of this type will be suppressed.
+Working on:  /root/data/simulations/results/sniper_16_10_tas_cas
+0          [20809]  [10]  [trace_manager.cc    : 323]  *WARNING* accessMemory() called but thread already killed since application ended
+367        [20809]  [10]  [trace_manager.cc    : 323]  *WARNING* Future warnings of this type will be suppressed.
+Working on:  /root/data/simulations/results/sniper_16_10_tas_ts
+0          [20897]  [ 9]  [trace_manager.cc    : 323]  *WARNING* accessMemory() called but thread already killed since application ended
+316        [20897]  [ 9]  [trace_manager.cc    : 323]  *WARNING* Future warnings of this type will be suppressed.
+Working on:  /root/data/simulations/results/sniper_16_10_ttas_cas
+0          [20987]  [ 9]  [trace_manager.cc    : 323]  *WARNING* accessMemory() called but thread already killed since application ended
+480        [20987]  [ 9]  [trace_manager.cc    : 323]  *WARNING* Future warnings of this type will be suppressed.
+Working on:  /root/data/simulations/results/sniper_16_10_ttas_ts
+[SIFT] /root/sniper/common/core/memory_subsystem/parametric_dram_directory_msi/cache_cntlr.cc:1358: void ParametricDramDirectoryMSI::CacheCntlr::invalidateCacheBlock(IntPtr): Assertion `old_cstate != CacheState::MODIFIED' failed.
+Working on:  /root/data/simulations/results/sniper_1_100_mutex
+Working on:  /root/data/simulations/results/sniper_1_100_tas_cas
+Working on:  /root/data/simulations/results/sniper_1_100_tas_ts
+Working on:  /root/data/simulations/results/sniper_1_100_ttas_cas
+Working on:  /root/data/simulations/results/sniper_1_100_ttas_ts
+Working on:  /root/data/simulations/results/sniper_2_100_mutex
+Working on:  /root/data/simulations/results/sniper_2_100_tas_cas
+Working on:  /root/data/simulations/results/sniper_2_100_tas_ts
+Working on:  /root/data/simulations/results/sniper_2_100_ttas_cas
+Working on:  /root/data/simulations/results/sniper_2_100_ttas_ts
+Working on:  /root/data/simulations/results/sniper_4_100_mutex
+Working on:  /root/data/simulations/results/sniper_4_100_tas_cas
+0          [21673]  [ 3]  [trace_manager.cc    : 323]  *WARNING* accessMemory() called but thread already killed since application ended
+367        [21673]  [ 3]  [trace_manager.cc    : 323]  *WARNING* Future warnings of this type will be suppressed.
+Working on:  /root/data/simulations/results/sniper_4_100_tas_ts
+Working on:  /root/data/simulations/results/sniper_4_100_ttas_cas
+Working on:  /root/data/simulations/results/sniper_4_100_ttas_ts
+0          [21837]  [ 3]  [trace_manager.cc    : 323]  *WARNING* accessMemory() called but thread already killed since application ended
+438        [21837]  [ 3]  [trace_manager.cc    : 323]  *WARNING* Future warnings of this type will be suppressed.
+Working on:  /root/data/simulations/results/sniper_8_100_mutex
+0          [21901]  [ 6]  [trace_manager.cc    : 323]  *WARNING* accessMemory() called but thread already killed since application ended
+507        [21901]  [ 6]  [trace_manager.cc    : 323]  *WARNING* Future warnings of this type will be suppressed.
+Working on:  /root/data/simulations/results/sniper_8_100_tas_cas
+0          [21964]  [ 4]  [trace_manager.cc    : 323]  *WARNING* accessMemory() called but thread already killed since application ended
+367        [21964]  [ 4]  [trace_manager.cc    : 323]  *WARNING* Future warnings of this type will be suppressed.
+Working on:  /root/data/simulations/results/sniper_8_100_tas_ts
+0          [22029]  [ 3]  [trace_manager.cc    : 323]  *WARNING* accessMemory() called but thread already killed since application ended
+317        [22029]  [ 3]  [trace_manager.cc    : 323]  *WARNING* Future warnings of this type will be suppressed.
+Working on:  /root/data/simulations/results/sniper_8_100_ttas_cas
+0          [22098]  [ 4]  [trace_manager.cc    : 323]  *WARNING* accessMemory() called but thread already killed since application ended
+389        [22098]  [ 4]  [trace_manager.cc    : 323]  *WARNING* Future warnings of this type will be suppressed.
+Working on:  /root/data/simulations/results/sniper_8_100_ttas_ts
+0          [22158]  [ 1]  [trace_manager.cc    : 323]  *WARNING* accessMemory() called but thread already killed since application ended
+434        [22158]  [ 1]  [trace_manager.cc    : 323]  *WARNING* Future warnings of this type will be suppressed.
+Working on:  /root/data/simulations/results/sniper_16_100_mutex
+0          [22232]  [ 1]  [trace_manager.cc    : 323]  *WARNING* accessMemory() called but thread already killed since application ended
+330        [22232]  [ 1]  [trace_manager.cc    : 323]  *WARNING* Future warnings of this type will be suppressed.
+Working on:  /root/data/simulations/results/sniper_16_100_tas_cas
+Working on:  /root/data/simulations/results/sniper_16_100_tas_ts
+0          [22430]  [10]  [trace_manager.cc    : 323]  *WARNING* accessMemory() called but thread already killed since application ended
+360        [22430]  [10]  [trace_manager.cc    : 323]  *WARNING* Future warnings of this type will be suppressed.
+Working on:  /root/data/simulations/results/sniper_16_100_ttas_cas
+0          [22514]  [ 7]  [trace_manager.cc    : 323]  *WARNING* accessMemory() called but thread already killed since application ended
+614        [22514]  [ 7]  [trace_manager.cc    : 323]  *WARNING* Future warnings of this type will be suppressed.
+Working on:  /root/data/simulations/results/sniper_16_100_ttas_ts
+0          [22614]  [12]  [trace_manager.cc    : 323]  *WARNING* accessMemory() called but thread already killed since application ended
+458        [22614]  [12]  [trace_manager.cc    : 323]  *WARNING* Future warnings of this type will be suppressed.

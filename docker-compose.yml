@@ -1,0 +1,10 @@
+services:
+  mycontainer:
+    image: sniper_advanced_comparch
+    container_name: sniperouni
+    build: .
+    command: /bin/bash
+    stdin_open: true
+    tty: true
+    volumes:
+      - './data:/root/data'

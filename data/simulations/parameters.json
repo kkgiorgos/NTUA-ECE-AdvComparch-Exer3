@@ -1,0 +1,49 @@
+{
+    "systems": [
+        {
+            "cores": 1,
+            "l1i_share": 1,
+            "l1d_share": 1,
+            "l2_share": 1,
+            "l3_share": 1
+        },
+        {
+            "cores": 2,
+            "l1i_share": 1,
+            "l1d_share": 1,
+            "l2_share": 2,
+            "l3_share": 2
+        },
+        {
+            "cores": 4,
+            "l1i_share": 1,
+            "l1d_share": 1,
+            "l2_share": 4,
+            "l3_share": 4
+        },
+        {
+            "cores": 8,
+            "l1i_share": 1,
+            "l1d_share": 1,
+            "l2_share": 4,
+            "l3_share": 8
+        },
+        {
+            "cores": 16,
+            "l1i_share": 1,
+            "l1d_share": 1,
+            "l2_share": 1,
+            "l3_share": 8
+        }
+    ],
+    "iterations": 1000,
+    "threads": [1, 2, 4, 8, 16],
+    "grain_size": [1, 10, 100],
+    "executables": [
+        "locks_sniper_mutex",
+        "locks_sniper_tas_cas",
+        "locks_sniper_tas_ts",
+        "locks_sniper_ttas_cas",
+        "locks_sniper_ttas_ts"
+    ]
+}

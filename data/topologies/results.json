@@ -1,0 +1,107 @@
+[
+    {
+        "system": "share_all",
+        "executable": "mutex",
+        "cycles": 695197,
+        "time": 261352,
+        "energy": 0.57
+    },
+    {
+        "system": "share_all",
+        "executable": "tas_cas",
+        "cycles": 317287,
+        "time": 119281,
+        "energy": 0.62
+    },
+    {
+        "system": "share_all",
+        "executable": "tas_ts",
+        "cycles": 314945,
+        "time": 118401,
+        "energy": 1.16
+    },
+    {
+        "system": "share_all",
+        "executable": "ttas_cas",
+        "cycles": 319049,
+        "time": 119943,
+        "energy": 0.91
+    },
+    {
+        "system": "share_all",
+        "executable": "ttas_ts",
+        "cycles": 332177,
+        "time": 124879,
+        "energy": 1.11
+    },
+    {
+        "system": "share_L3",
+        "executable": "mutex",
+        "cycles": 672585,
+        "time": 252852,
+        "energy": 0.57
+    },
+    {
+        "system": "share_L3",
+        "executable": "tas_cas",
+        "cycles": 310355,
+        "time": 116675,
+        "energy": 0.61
+    },
+    {
+        "system": "share_L3",
+        "executable": "tas_ts",
+        "cycles": 312488,
+        "time": 117477,
+        "energy": 1.2
+    },
+    {
+        "system": "share_L3",
+        "executable": "ttas_cas",
+        "cycles": 307983,
+        "time": 115783,
+        "energy": 0.85
+    },
+    {
+        "system": "share_L3",
+        "executable": "ttas_ts",
+        "cycles": 320811,
+        "time": 120606,
+        "energy": 0.99
+    },
+    {
+        "system": "share_nothing",
+        "executable": "mutex",
+        "cycles": 688453,
+        "time": 258817,
+        "energy": 0.56
+    },
+    {
+        "system": "share_nothing",
+        "executable": "tas_cas",
+        "cycles": 311435,
+        "time": 117081,
+        "energy": 0.58
+    },
+    {
+        "system": "share_nothing",
+        "executable": "tas_ts",
+        "cycles": 317546,
+        "time": 119378,
+        "energy": 1.25
+    },
+    {
+        "system": "share_nothing",
+        "executable": "ttas_cas",
+        "cycles": 310702,
+        "time": 116805,
+        "energy": 0.94
+    },
+    {
+        "system": "share_nothing",
+        "executable": "ttas_ts",
+        "cycles": 327993,
+        "time": 123306,
+        "energy": 1.13
+    }
+]
